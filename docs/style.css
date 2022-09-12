@@ -33,9 +33,9 @@ body{
     font-size: 28px;
     padding-top: 50px;
 }
-.card #inputDate{
+.card #input-date{
     width: 80px;
 }
-.card #inputCVV {
+.card #input-cvv {
     width: 50px;
 }
